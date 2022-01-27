@@ -21,6 +21,8 @@
      - npm i
      - npm start (to start metro bundler)
      - npm run android (to run app in android)  or  npm run ios (to run app in ios)
+     - To run android app, replace 'localhost' with local machine's ip address in the api url
+     - For IOS app, 'localhost' works fine
 
 ## docker commands
 
